@@ -1,0 +1,9 @@
+	{
+	  "name": "ldl",
+	  "main": "server.js",
+	  "dependencies": {
+	    "restify": "~2.8.x",
+	    "mongoose": "~3.6.13",
+	    "ini": "~1.2.x"
+	  }
+	}
